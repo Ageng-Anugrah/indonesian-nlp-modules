@@ -1,0 +1,3 @@
+./UD_Indonesian_GSD/data/data.tar.gz
+./experiments/scripts/models/indobert0/model.pt
+./experiments/scripts/models/indobertGSD/model.pt
